@@ -22,3 +22,4 @@ window.onload = function() {
     suit.innerHTML = randomSuits;
   }
 };
+setInterval(window.onload, 3000);
